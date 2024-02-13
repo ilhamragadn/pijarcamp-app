@@ -1,8 +1,8 @@
-<p align="center"><img src="{{ asset('img/index.png') }}" width="400" alt="CRUD"></a></p>
-<p align="center"><img src="{{ asset('img/create.png') }}" width="400" alt="CRUD"></a></p>
-<p align="center"><img src="{{ asset('img/show.png') }}" width="400" alt="CRUD"></a></p>
-<p align="center"><img src="{{ asset('img/edit.png') }}" width="400" alt="CRUD"></a></p>
-<p align="center"><img src="{{ asset('img/delete.png') }}" width="400" alt="CRUD"></a></p>
+<p align="center"><img src="{{ asset('img/index.png') }}" width="400" alt="CRUD"></p>
+<p align="center"><img src="{{ asset('img/create.png') }}" width="400" alt="CRUD"></p>
+<p align="center"><img src="{{ asset('img/show.png') }}" width="400" alt="CRUD"></p>
+<p align="center"><img src="{{ asset('img/edit.png') }}" width="400" alt="CRUD"></p>
+<p align="center"><img src="{{ asset('img/delete.png') }}" width="400" alt="CRUD"></p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
