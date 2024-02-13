@@ -1,4 +1,5 @@
-<p align="center"><img src="{{ asset('img/index.png') }}" width="400" alt="CRUD"></p>
+<p align="center"></p>
+<img src="{{ asset('img/index.png') }}" width="400" alt="CRUD">
 <p align="center"><img src="{{ asset('img/create.png') }}" width="400" alt="CRUD"></p>
 <p align="center"><img src="{{ asset('img/show.png') }}" width="400" alt="CRUD"></p>
 <p align="center"><img src="{{ asset('img/edit.png') }}" width="400" alt="CRUD"></p>
